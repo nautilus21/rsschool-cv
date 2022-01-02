@@ -1,2 +1,4 @@
-# rsschool-cv
-My CV
+# My CV
+https://nautilus21.github.io/rsschool-cv/cv
+
+https://nautilus21.github.io/rsschool-cv/
