@@ -10,7 +10,7 @@
 ***
 ### About Myself:
 
-Having started my career as a marketer in a trading company in Russia, I became interested in internet marketing, in particular, creating digital content for the commercial needs of the customer. Having independently mastered the editors of vector and raster graphics (Flash, Korel, Photoshop), I gained experience in the implementation of advertising campaigns as an employee of the largest car dealer in my home state. In addition, I have been successful as a freelance digital content designer for many commercial companies.
+Having started my career as a marketer in a trading company in Russia, I became interested in internet marketing, in particular, creating digital content for the commercial needs of the customer. Having independently mastered the editors of vector and raster graphics, I gained experience in the implementation of advertising campaigns as an employee of the largest car dealer in my home state. In addition, I have been successful as a freelance digital content designer for many commercial companies.
 
 As an internet marketer, I have implemented several projects on online support for new car brands in the region, digitalization and automation of the process of interaction between a client and the car dealership. I gained experience with web analytics and website promotion in search engines.
 
