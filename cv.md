@@ -5,7 +5,10 @@
 ### Contact information:
 **Phone:** +12062014747\
 **E-mail:** a.suniaikin<span></span>@gmail.com\
-**GitHub:** [nautilus21](https://github.com/nautilus21/)\
+**GitHub:** [nautilus21](https://github.com/nautilus21/)
+
+
+***
 
 ### About Myself:
 
@@ -17,6 +20,9 @@ Having moved to the USA, I got a great opportunity to improve my English skills.
 
 My desire to improve professionally and realize the existing background led me to the RS school, as a community in which I can get relevant skills of practical work in front-end. Realizing myself as a professional developer is my goal.
 
+
+***
+
 ### Skills and Proficiency:
 * HTML5, CSS3
 * Git, GitHub
@@ -25,11 +31,16 @@ My desire to improve professionally and realize the existing background led me t
 * Corel Draw
 * Adobe Flash
 
+
+***
+
 ### Code example:
 ```
 def multiply(a, b):
     return (a * b)
 ```
+
+***
 
 ### Education:
 * **Volgo-Vyatskaya Academy of Public Service**
@@ -37,6 +48,8 @@ def multiply(a, b):
     + The Web Developer Bootcamp 2022
     + Crash Course on Python
     + Google Cloud Platform Fundamentals: Core Infrastructure
+
+***
 
 ### Languages
 * English - B1
