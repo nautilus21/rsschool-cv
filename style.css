@@ -13,7 +13,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  color: #7fabaf;
+  color: rgb(82, 94, 99);
   line-height: 2;
 }
 
@@ -190,6 +190,10 @@ html {
   .section-photo-pic-part {
     display: flex;
     justify-content: center;
+  }
+
+  .section-education {
+    border-bottom: 2px solid #0b9ec4;
   }
 }
 
