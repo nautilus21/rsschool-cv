@@ -5,10 +5,19 @@
 ### Contact information:
 **Phone:** +12062014747\
 **E-mail:** a.suniaikin<span></span>@gmail.com\
+<<<<<<< HEAD
+**GitHub:** [nautilus21](https://github.com/nautilus21/)\
+**Telegram:** [Андрей](https://t.me/nautilus4747/)
+
+
+****
+
+=======
 **GitHub:** [nautilus21](https://github.com/nautilus21/)
 
 
 ***
+>>>>>>> gh-pages
 
 ### About Myself:
 
@@ -21,7 +30,12 @@ Having moved to the USA, I got a great opportunity to improve my English skills.
 My desire to improve professionally and realize the existing background led me to the RS school, as a community in which I can get relevant skills of practical work in front-end. Realizing myself as a professional developer is my goal.
 
 
+<<<<<<< HEAD
+****
+
+=======
 ***
+>>>>>>> gh-pages
 
 ### Skills and Proficiency:
 * HTML5, CSS3
@@ -32,7 +46,12 @@ My desire to improve professionally and realize the existing background led me t
 * Adobe Flash
 
 
+<<<<<<< HEAD
+****
+
+=======
 ***
+>>>>>>> gh-pages
 
 ### Code example:
 ```
@@ -40,7 +59,11 @@ def multiply(a, b):
     return (a * b)
 ```
 
+<<<<<<< HEAD
+****
+=======
 ***
+>>>>>>> gh-pages
 
 ### Education:
 * **Volgo-Vyatskaya Academy of Public Service**
@@ -49,7 +72,13 @@ def multiply(a, b):
     + Crash Course on Python
     + Google Cloud Platform Fundamentals: Core Infrastructure
 
+<<<<<<< HEAD
+
+****
+
+=======
 ***
+>>>>>>> gh-pages
 
 ### Languages
 * English - B1
